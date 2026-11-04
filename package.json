@@ -5,6 +5,8 @@
   "license": "SEE LICENSE IN LICENSE",
   "author": "Nathan Zhou (https://nathanz.cloud)",
   "homepage": "https://nathanz.cloud",
+  "repository": { "type": "git", "url": "git+https://github.com/nathanz3491/ink-background.git" },
+  "bugs": "https://github.com/nathanz3491/ink-background/issues",
   "keywords": [
     "background",
     "webgl",
